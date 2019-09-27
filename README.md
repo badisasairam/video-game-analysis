@@ -46,13 +46,15 @@ This is our big data project. Our course number is 44517 and group number is 02.
         2008.0, 35.82 <br>
         2009.0, 33.00 <br>
         1996.0, 31.37 <br>
-    - Reducer output : <br>
-        
+    - Reducer output :
     - Language used: <br>
-        The language we are using is python.
+        The language we are using is python. <br>
+    - What kind of chart will you use to display the results? <br>
+        I will use bar chart to display my results. <br>
         
-    - What kind of chart will you use to display the results?
-        I will use bar chart to display my results.
+   
+        
+    
       
 
       
