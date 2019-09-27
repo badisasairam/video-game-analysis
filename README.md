@@ -27,4 +27,15 @@ This is our big data project. Our course number is 44517 and group number is 02.
   •	Variety – It has a lot of variety data such as the integer, floating and the object type data. <br>
   •	Veracity – The quality and the accuracy of the data is good since it doesn’t have any null values or the zero values. <br>
   •	Velocity – This Data has no velocity since it is in the past. <br>
-  •	Value – using this data source we can calculate the sales and the year in which we got the highest sales according to the genre and       the sport. <br>
+  •	Value – using this data source we can calculate the sales and the year in which we got the highest sales according to the genre and               the sport. <br>
+  
+# Big Data question
+  For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
+  For every year find out the name and the rank of each Video Game in a sorted order. ( Saikumar Nalivela) <br>
+  For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
+  For every year, find out the Platform and the genre with NA_Sales ( Karun Bourishetty) <br>
+  For every year, find out the Genre and the publisher in a sorted order ( lakshmi Seshu Kalvakuri) <br>
+  
+  
+  
+
