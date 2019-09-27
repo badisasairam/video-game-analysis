@@ -35,7 +35,10 @@ This is our big data project. Our course number is 44517 and group number is 02.
   For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
   For every year, find out the Platform and the genre with NA_Sales ( Karun Bourishetty) <br>
   For every year, find out the Genre and the publisher in a sorted order ( lakshmi Seshu Kalvakuri) <br>
+ 
+# Big Data Solutions
   
+
   
   
 
