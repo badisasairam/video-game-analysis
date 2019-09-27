@@ -1,1 +1,30 @@
 # video-game-analysis
+This is our big data project. Our course number is 44517 and group number is 02. <br>
+
+# List of developers
+  1. Saikumar Nalivela
+  2. Karun Bourishetty
+  3. Lakshmi Seshu Kalvakuri
+  4. Sairam Badisa
+  5. Mallikarjuna Bodepudi
+  
+# Links
+  https://github.com/badisasairam/video-game-analysis <br>
+  https://github.com/badisasairam/video-game-analysis/issues
+  
+# Introduction
+  This dataset is going to analyze the sales data from more than 16,500 games. It contains the fields like Rank, Name, Platform, YEAR       etc., and by processing this data we can find the global sales that are done for each year.
+  
+# DataSource
+  This data source contains the data related to the video game analysis which consists of year, Rank, Name etc.  This data consists of       nearly 16,000 records, this is a CSV file. This is a structured data.
+
+# Link to the DataSource
+  https://www.kaggle.com/garfieldliang/video-games-analysis
+  
+# The Challenge
+  What makes it a big data challenge?
+  •	Volume – Since it has more than 16,000 records to be processed and obtain the required results. <br>
+  •	Variety – It has a lot of variety data such as the integer, floating and the object type data. <br>
+  •	Veracity – The quality and the accuracy of the data is good since it doesn’t have any null values or the zero values. <br>
+  •	Velocity – This Data has no velocity since it is in the past. <br>
+  •	Value – using this data source we can calculate the sales and the year in which we got the highest sales according to the genre and       the sport. <br>
