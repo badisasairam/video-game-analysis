@@ -41,12 +41,13 @@ This is our big data project. Our course number is 44517 and group number is 02.
   •	Mapper Input : One line of data that mapper will read is: <br>
   1 Wii Sports Wii 2006.0 Sports Nintendo 41.49 29.02 3.77 8.46 82.74 <br>
   •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
-     2006.0, 82.74 <br>
-     1985.0, 40.24 <br>
-     2008.0, 35.82 <br>
-     2009.0, 33.00 <br>
-     1996.0, 31.37 <br>
-  •	Reducer output :
+     o	2006.0, 82.74 <br>
+     o	1985.0, 40.24 <br>
+     o	2008.0, 35.82 <br>
+     o	2009.0, 33.00 <br>
+     o	1996.0, 31.37 <br>
+
+  •	Reducer output : <br>
   •	Language used: <br>
     The language we are using is python. <br>
   •	What kind of chart will you use to display the results? <br>
