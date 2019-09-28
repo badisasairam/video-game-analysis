@@ -37,7 +37,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   For any publisher, find the highest rank game developed in north america? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
-  <p3>Sairam Badisa <p3><br>
+  Sairam Badisa <br>
   &emsp;•	Mapper Input : One line of data that mapper will read is: <br>
   &emsp; &emsp;1 Wii Sports Wii 2006.0 Sports Nintendo 41.49 29.02 3.77 8.46 82.74 <br>
   &emsp;•	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
