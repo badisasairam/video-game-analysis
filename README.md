@@ -37,20 +37,20 @@ This is our big data project. Our course number is 44517 and group number is 02.
   For any publisher, find the highest rank game developed in north america? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
-  Sairam Badisa <br>
-  •	Mapper Input : One line of data that mapper will read is: <br>
-  1 Wii Sports Wii 2006.0 Sports Nintendo 41.49 29.02 3.77 8.46 82.74 <br>
-  •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
-     o	2006.0, 82.74 <br>
-     o	1985.0, 40.24 <br>
-     o	2008.0, 35.82 <br>
-     o	2009.0, 33.00 <br>
-     o	1996.0, 31.37 <br>
-  •	Reducer output : <br>
-  •	Language used: <br>
-    The language we are using is python. <br>
-  •	What kind of chart will you use to display the results? <br>
-    I will use bar chart to display my results. <br>
+  <p3>Sairam Badisa <p3><br>
+  &emsp;•	Mapper Input : One line of data that mapper will read is: <br>
+  &emsp; &emsp;1 Wii Sports Wii 2006.0 Sports Nintendo 41.49 29.02 3.77 8.46 82.74 <br>
+  &emsp;•	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
+  &emsp;&emsp;   o	2006.0, 82.74 <br>
+  &emsp;&emsp;   o	1985.0, 40.24 <br>
+  &emsp;&emsp;   o	2008.0, 35.82 <br>
+  &emsp;&emsp;   o	2009.0, 33.00 <br>
+  &emsp;&emsp;   o	1996.0, 31.37 <br>
+  &emsp;•	Reducer output : <br>
+  &emsp;•	Language used: <br>
+  &emsp;&emsp;  The language we are using is python. <br>
+  &emsp;•	What kind of chart will you use to display the results? <br>
+  &emsp;&emsp;  I will use bar chart to display my results. <br>
     
    Lakshmi Seshu Kalvakuri <br>
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
