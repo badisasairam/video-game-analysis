@@ -22,7 +22,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   https://www.kaggle.com/garfieldliang/video-games-analysis
   
 # The Challenge
-  What makes it a big data challenge?
+  What makes it a big data challenge? <br>
   &emsp; •	Volume – Since it has more than 16,000 records to be processed and obtain the required results. <br>
   &emsp; •	Variety – It has a lot of variety data such as the integer, floating and the object type data. <br>
   &emsp; •	Veracity – The quality and the accuracy of the data is good since it doesn’t have any null values or the zero values. <br>
