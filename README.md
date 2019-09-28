@@ -53,22 +53,22 @@ This is our big data project. Our course number is 44517 and group number is 02.
     I will use bar chart to display my results. <br>
     
   Seshu Lakshmi Kalvakuri <br>
-  &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
-  &emsp; 2598	Alien	2600	1981	Action	20th Century Fox Video Games	0.74	0.04	0	0.01	0.79<br>
-  &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
-&emsp;  Rank	Name	Year	Publisher	NA_Sales
-&emsp; 2598	Alien	1981	20th Century Fox Video Games	0.74<br>
-&emsp; 5391	Fantastic Voyage	1981	20th Century Fox Video Games	0.32<br>
-&emsp; 5397	Bank Heist	1982	20th Century Fox Video Games	0.32<br>
-&emsp; 6730	Porky's	1982	20th Century Fox Video Games	0.23<br>
-&emsp; 7150	Deadly Duck	1981	20th Century Fox Video Games	0.21<br>
+&emsp; •	Mapper Input : One line of data that mapper will read is: <br>
+&emsp; &emsp; 2598	Alien	2600	1981	Action	20th Century Fox Video Games	0.74	0.04	0	0.01	0.79<br>
+&emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
+&emsp; &emsp;  Rank	Name	Year	Publisher	NA_Sales<br>
+&emsp; &emsp; 2598	Alien	1981	20th Century Fox Video Games	0.74<br>
+&emsp; &emsp; 5391	Fantastic Voyage	1981	20th Century Fox Video Games	0.32<br>
+&emsp; &emsp; 5397	Bank Heist	1982	20th Century Fox Video Games	0.32<br>
+&emsp; &emsp; 6730	Porky's	1982	20th Century Fox Video Games	0.23<br>
+&emsp; &emsp; 7150	Deadly Duck	1981	20th Century Fox Video Games	0.21<br>
 &emsp; •	Reducer output : <br>
-  &emsp; Rank	Name	Year	Publisher	NA_Sales
+&emsp;&emsp; Rank	Name	Year	Publisher	NA_Sales
 &emsp; 2598	Alien	1981	20th Century Fox Video Games	0.74<br>
- &emsp; •	Language used: <br>
-   &emsp; The language we are using is python. <br>
-  &emsp; •	What kind of chart will you use to display the results? <br>
-   &emsp; I will use bar chart to display my results. <br>
+&emsp; •	Language used: <br>
+&emsp;&emsp; The language we are using is python. <br>
+&emsp; •	What kind of chart will you use to display the results? <br>
+&emsp;&emsp; I will use bar chart to display my results. <br>
         
     
       
