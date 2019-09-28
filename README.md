@@ -31,9 +31,9 @@ This is our big data project. Our course number is 44517 and group number is 02.
   
 # Big Data question
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
-  F or each year, find the . ( Saikumar Nalivela) <b&emsp; r>
-  For every year, find out the Genre and the publish&emsp; er who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
-  For every year, find out the Platform and the genr&emsp; e with NA_Sales ( Karun Bourishetty) <br>
+  For each year, find the . ( Saikumar Nalivela) <br>
+  For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
+  For every year, find out the Platform and the genre with NA_Sales ( Karun Bourishetty) <br>
   For any publisher, find the highest rank game developed in north america? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
