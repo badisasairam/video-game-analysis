@@ -13,7 +13,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   https://github.com/badisasairam/video-game-analysis/issues
   
 # Introduction
-  This dataset is going to analyze the sales data from more than 16,500 games. It contains the fields like Rank, Name, Platform, YEAR       etc., and by processing this data we can find the global sales that are done for each year.
+  This dataset gives the sales count of video games in north america, europe and japan. It contains the fields like Rank, Name, Platform, YEAR       etc., and by processing this data we can find the global sales that are done for each year.
   
 # DataSource
   This data source contains the data related to the video game analysis which consists of year, Rank, Name etc.  This data consists of       nearly 16,000 records, this is a CSV file. This is a structured data.
