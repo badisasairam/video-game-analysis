@@ -98,6 +98,42 @@ Rank	Name	Platform	Genre	Publisher
 &emsp;&emsp; The language we are using is python. <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
+
+
+Karun Bourishetty<br>
+&emsp; •	Mapper Input : One line of data that mapper will read is: <br>
+&emsp; &emsp;259	Asteroids	2600	1980	Shooter	Atari	4	0.26	0	0.05	4.31 <br>
+&emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
+Rank	Name	Platform	Year	Genre	Publisher	NA_Sales	EU_Sales	JP_Sales	Other_Sales	Global_Sales <br>
+259	Asteroids	2600	1980	Shooter	Atari	4	0.26	0	0.05	4.31 <br>
+545	Missile Command	2600	1980	Shooter	Atari	2.56	0.17	0	0.03	2.76 <br>
+1768	Kaboom!	2600	1980	Misc	Activision	1.07	0.07	0	0.01	1.15 <br>
+1971	Defender	2600	1980	Misc	Atari	0.99	0.05	0	0.01	1.05 <br>
+2671	Boxing	2600	1980	Fighting	Activision	0.72	0.04	0	0.01	0.77 <br>
+4027	Ice Hockey	2600	1980	Sports	Activision	0.46	0.03	0	0.01	0.49 <br>
+5368	Freeway	2600	1980	Action	Activision	0.32	0.02	0	0	0.34 <br>
+6319	Bridge	2600	1980	Misc	Activision	0.25	0.02	0	0	0.27 <br>
+6898	Checkers	2600	1980	Misc	Atari	0.22	0.01	0	0	0.24 <br>
+&emsp; •	Reducer output : <br>
+Rank	Name	Platform	Genre	Publisher <br>
+Rank	Name	Platform	Year	Genre	Publisher <br>
+259	Asteroids	2600	1980	Shooter	Atari <br>
+545	Missile Command	2600	1980	Shooter	Atari <br>
+1768	Kaboom!	2600	1980	Misc	Activision <br>
+1971	Defender	2600	1980	Misc	Atari <br>
+2671	Boxing	2600	1980	Fighting	Activision <br>
+4027	Ice Hockey	2600	1980	Sports	Activision <br>
+5368	Freeway	2600	1980	Action	Activision <br>
+6319	Bridge	2600	1980	Misc	Activision <br>
+6898	Checkers	2600	1980	Misc	Atari <br>
+
+
+&emsp; •	Language used: <br>
+&emsp;&emsp; The language we are using is python. <br>
+&emsp; •	What kind of chart will you use to display the results? <br>
+&emsp;&emsp; I will use bar chart to display my results. <br>
+
+
         
     
       
