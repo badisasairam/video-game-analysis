@@ -52,7 +52,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   •	What kind of chart will you use to display the results? <br>
     I will use bar chart to display my results. <br>
     
-  Seshu Lakshmi Kalvakuri <br>
+   Lakshmi Seshu Kalvakuri <br>
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
 &emsp; &emsp; 2598	Alien	2600	1981	Action	20th Century Fox Video Games	0.74	0.04	0	0.01	0.79<br>
 &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
