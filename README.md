@@ -63,7 +63,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
 &emsp; &emsp; 6730	Porky's	1982	20th Century Fox Video Games	0.23<br>
 &emsp; &emsp; 7150	Deadly Duck	1981	20th Century Fox Video Games	0.21<br>
 &emsp; •	Reducer output : <br>
-&emsp;&emsp; Rank	Name	Year	Publisher	NA_Sales
+&emsp;&emsp; Rank	Name	Year	Publisher	NA_Sales<br>
 &emsp; 2598	Alien	1981	20th Century Fox Video Games	0.74<br>
 &emsp; •	Language used: <br>
 &emsp;&emsp; The language we are using is python. <br>
