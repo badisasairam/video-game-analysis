@@ -23,17 +23,17 @@ This is our big data project. Our course number is 44517 and group number is 02.
   
 # The Challenge
   What makes it a big data challenge?
-  •	Volume – Since it has more than 16,000 records to be processed and obtain the required results. <br>
-  •	Variety – It has a lot of variety data such as the integer, floating and the object type data. <br>
-  •	Veracity – The quality and the accuracy of the data is good since it doesn’t have any null values or the zero values. <br>
-  •	Velocity – This Data has no velocity since it is in the past. <br>
-  •	Value – using this data source we can calculate the sales and the year in which we got the highest sales according to the genre and               the sport. <br>
+  &emsp; •	Volume – Since it has more than 16,000 records to be processed and obtain the required results. <br>
+  &emsp; •	Variety – It has a lot of variety data such as the integer, floating and the object type data. <br>
+  &emsp; •	Veracity – The quality and the accuracy of the data is good since it doesn’t have any null values or the zero values. <br>
+  &emsp; •	Velocity – This Data has no velocity since it is in the past. <br>
+  &emsp; •	Value – using this data source we can calculate the sales and the year in which we got the highest sales according to the               genre and the sport. <br>
   
 # Big Data question
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
-  For each year, find the . ( Saikumar Nalivela) <br>
-  For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
-  For every year, find out the Platform and the genre with NA_Sales ( Karun Bourishetty) <br>
+  F or each year, find the . ( Saikumar Nalivela) <b&emsp; r>
+  For every year, find out the Genre and the publish&emsp; er who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
+  For every year, find out the Platform and the genr&emsp; e with NA_Sales ( Karun Bourishetty) <br>
   For any publisher, find the highest rank game developed in north america? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
