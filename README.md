@@ -133,6 +133,29 @@ Rank	Name	Platform	Year	Genre	Publisher <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
 
+Mallikaarjun Bodepudi<br>
+&emsp; •	Mapper Input : One line of data that mapper will read is: <br>
+&emsp; &emsp; 1	Wii Sports	Wii	2006	Sports	Nintendo	41.49	29.02	3.77	8.46	82.74
+&emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
+1	Wii Sports	Wii	2006	Sports	Nintendo	41.49	29.02 <br>
+2	Super Mario Bros.	NES	1985	Platform	Nintendo	29.08	3.58<br>
+3	Mario Kart Wii	Wii	2008	Racing	Nintendo	15.85	12.88 <br>
+4	Wii Sports Resort	Wii	2009	Sports	Nintendo	15.75	11.01 <br>
+5	Pokemon Red/Pokemon Blue	GB	1996	Role-Playing	Nintendo	11.27	8.89 <br>
+6	Tetris	GB	1989	Puzzle	Nintendo	23.2	2.26 <br>
+7	New Super Mario Bros.	DS	2006	Platform	Nintendo	11.38	9.23 <br>
+8	Wii Play	Wii	2006	Misc	Nintendo	14.03	9.2 <br>
+9	New Super Mario Bros. Wii	Wii	2009	Platform	Nintendo	14.59	7.06 <br>
+10	Duck Hunt	NES	1984	Shooter	Nintendo	26.93	0.63 <br>
+&emsp; •	Reducer output : <br>
+1	Wii Sports	Wii	2006	Sports	Nintendo<br>
+2	Super Mario Bros.	NES	1985	Platform	Nintendo <br>
+3	Mario Kart Wii	Wii	2008	Racing	Nintend0 <br>
+&emsp; •	Language used: <br>
+&emsp;&emsp; The language we are using is python. <br>
+&emsp; •	What kind of chart will you use to display the results? <br>
+&emsp;&emsp; I will use bar chart to display my results. <br>
+
 
         
     
