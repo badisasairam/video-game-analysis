@@ -46,7 +46,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   &emsp;&emsp;   o	2008.0, 35.82 <br>
   &emsp;&emsp;   o	2009.0, 33.00 <br>
   &emsp;&emsp;   o	1996.0, 31.37 <br>
-  &emsp;•	Reducer output : <br>
+  &emsp;•	Reducer output : 
   &emsp;&emsp;   o	1985.0, 40.24 <br>
   
   &emsp;•	Language used: <br>
