@@ -8,8 +8,11 @@
 
 import sys
 
+# We are reading each line from standarinput
 for line in sys.stdin:
+    # Here we split each line with "," as a delimeter
     data = line.strip().split(",")
+    # Here we check the length of the data equal to 11. ignoring all the lines which are lessthan and greaterthan 11
     if len(data) == 11:
 	    Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales = data
         # selecting only Genre for Northamerica sales
