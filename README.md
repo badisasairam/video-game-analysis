@@ -74,7 +74,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
 
 Saikumar Nalivela <br>
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
-&emsp; &emsp;237	The Last of Us	PS4	2014	Action	Sony Computer Entertainment
+&emsp; &emsp;237	The Last of Us	PS4	2014	Action	Sony Computer Entertainment <br>
 &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
 &emsp; &emsp;Rank	Name	Platform	Year	Genre	Publisher <br>
 &emsp; &emsp;237	The Last of Us	PS4	2014	Action	Sony Computer Entertainment <br>
@@ -133,14 +133,14 @@ Karun Bourishetty<br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
 
-Mallikaarjun Bodepudi<br>
+Mallikarjuna Bodepudi<br>
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
-&emsp; &emsp; 1	Wii Sports	Wii	2006	Sports	Nintendo	41.49	29.02	3.77	8.46	82.74
+&emsp; &emsp; 1	Wii Sports	Wii	2006	Sports	Nintendo	41.49	29.02	3.77	8.46	82.74 <br>
 &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
 &emsp; &emsp;1	Wii Sports	Wii	2006	Sports	Nintendo	41.49	29.02 <br>
 &emsp; &emsp;2	Super Mario Bros.	NES	1985	Platform	Nintendo	29.08	3.58<br>
 &emsp; &emsp;3	Mario Kart Wii	Wii	2008	Racing	Nintendo	15.85	12.88 <br>
-&emsp; &emsp;&emsp; &emsp;4	Wii Sports Resort	Wii	2009	Sports	Nintendo	15.75	11.01 <br>
+&emsp; &emsp;&emsp;4	Wii Sports Resort	Wii	2009	Sports	Nintendo	15.75	11.01 <br>
 &emsp; &emsp;5	Pokemon Red/Pokemon Blue	GB	1996	Role-Playing	Nintendo	11.27	8.89 <br>
 &emsp; &emsp;6	Tetris	GB	1989	Puzzle	Nintendo	23.2	2.26 <br>
 &emsp; &emsp;7	New Super Mario Bros.	DS	2006	Platform	Nintendo	11.38	9.23 <br>
