@@ -86,7 +86,7 @@ Saikumar Nalivela <br>
 &emsp; &emsp;850	DriveClub	PS4	2014	Racing	Sony Computer Entertainment <br>
 &emsp; &emsp;931	LittleBigPlanet 3	PS4	2014	Platform	Sony Computer Entertainment <br>
 &emsp; •	Reducer output : <br>
-&emsp; &emsp;Rank	Name	Platform	Genre	Publisher
+&emsp; &emsp;Rank	Name	Platform	Genre	Publisher <br>
 &emsp; &emsp;237	The Last of Us	PS4	Action	Sony Computer Entertainment <br>
 &emsp; &emsp;244	Uncharted: The Nathan Drake Collection	PS4	Action	Sony Computer Entertainment <br>
 &emsp; &emsp;272	Uncharted 4: A Thief's End	PS4	Shooter	Sony Computer Entertainment <br>
