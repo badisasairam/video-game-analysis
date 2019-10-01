@@ -47,7 +47,10 @@ This is our big data project. Our course number is 44517 and group number is 02.
   &emsp;&emsp;   o	2009.0, 33.00 <br>
   &emsp;&emsp;   o	1996.0, 31.37 <br>
   &emsp;•	Reducer output : <br>
+  &emsp;&emsp;   o	1982.0, 7.81 <br>
+  &emsp;&emsp;   o	1984.0, 28.31 <br>
   &emsp;&emsp;   o	1985.0, 40.24 <br>
+  &emsp;&emsp;   o	1988.0, 24.74 <br>
   
   &emsp;•	Language used: <br>
   &emsp;&emsp;  The language we are using is python. <br>
