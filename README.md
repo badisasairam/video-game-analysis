@@ -144,9 +144,9 @@ Mallikarjuna Bodepudi<br>
 &emsp; &emsp;9	New Super Mario Bros. Wii	Wii	2009	Platform	Nintendo	14.59	7.06 <br>
 &emsp; &emsp;10	Duck Hunt	NES	1984	Shooter	Nintendo	26.93	0.63 <br>
 &emsp; •	Reducer output : <br>
-&emsp; &emsp;1	Wii Sports	Wii	2006	Sports	Nintendo<br>
-&emsp; &emsp;2	Super Mario Bros.	NES	1985	Platform	Nintendo <br>
-&emsp; &emsp;3	Mario Kart Wii	Wii	2008	Racing	Nintend0 <br>
+&emsp; &emsp;1984 26.93<br>
+&emsp; &emsp;1985 29.08<br>
+&emsp; &emsp;1988 9.54<br>
 &emsp; •	Language used: <br>
 &emsp;&emsp; The language we are using is python. <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
