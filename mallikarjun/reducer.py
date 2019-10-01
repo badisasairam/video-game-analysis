@@ -2,7 +2,9 @@
 
 import sys
 
+# total northamerica sales as salestotal
 salesTotal = 0
+# old key refers to each genre
 oldKey = None
 
 # Loop around the data
@@ -13,23 +15,23 @@ oldKey = None
 # then the key will change and we'll be dealing with the next store
 
 for line in sys.stdin:
+    # Here we split each line with "\t" as a delimeter
     data_mapped = line.strip().split("\t")
     if len(data_mapped) != 2:
-        # Something has gone lwrong. Skip this line. 
+        # Something has gone wrong. Skip this line.
         continue
-        # this step assigns the values of the data_mapped to the thisKey, thisSale. 
+
     thisKey, thisSale = data_mapped
-    
-        # if oldKey and oldkey not equals to thisKey then it is going to print both values and assign thisKey to oldKey and salesTotal to 0. 
+
     if oldKey and oldKey != thisKey:
         print oldKey, "\t", salesTotal
         oldKey = thisKey
         salesTotal = 0
 
-        # this steps proceeds with the assigning the thisKey to oldKey and float value of thisSale to salesTotal. 
     oldKey = thisKey
+    #Here we add the total sales for each key
     salesTotal += float(thisSale)
-        # if oldKey is not equal to anything then it is going to print oldKey and salesTotal. 
+
 if oldKey != None:
     print oldKey, "\t", salesTotal
 
