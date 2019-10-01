@@ -33,8 +33,8 @@ This is our big data project. Our course number is 44517 and group number is 02.
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
   For the platform ps4,  find the highest saled game under the publisher "Sony Computer Entertainment". ( Saikumar Nalivela) <br>
   For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
-  For every year, find out the Genre with total NA_Sales ( Karun Bourishetty) <br>
-  For any publisher, find the Game highest on Global sales? ( lakshmi Seshu Kalvakuri) <br>`
+  For every year, find out the Platform and the genre with NA_Sales ( Karun Bourishetty) <br>
+  For any publisher, find the highest rank game developed in north america? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
   Sairam Badisa <br>
@@ -115,17 +115,13 @@ Karun Bourishetty<br>
 &emsp; &emsp;6319	Bridge	2600	1980	Misc	Activision	0.25	0.02	0	0	0.27 <br>
 &emsp; &emsp;6898	Checkers	2600	1980	Misc	Atari	0.22	0.01	0	0	0.24 <br>
 &emsp; •	Reducer output : <br>
-&emsp; &emsp;Rank	Name	Platform	Genre	Publisher <br>
-&emsp; &emsp;Rank	Name	Platform	Year	Genre	Publisher <br>
-&emsp; &emsp;259	Asteroids	2600	1980	Shooter	Atari <br>
-&emsp; &emsp;545	Missile Command	2600	1980	Shooter	Atari <br>
-&emsp; &emsp;1768	Kaboom!	2600	1980	Misc	Activision <br>
-&emsp; &emsp;1971	Defender	2600	1980	Misc	Atari <br>
-&emsp; &emsp;2671	Boxing	2600	1980	Fighting	Activision <br>
-&emsp; &emsp;4027	Ice Hockey	2600	1980	Sports	Activision <br>
-&emsp; &emsp;5368	Freeway	2600	1980	Action	Activision <br>
-&emsp; &emsp;6319	Bridge	2600	1980	Misc	Activision <br>
-&emsp; &emsp;6898	Checkers	2600	1980	Misc	Atari <br>
+&emsp; &emsp;Genre	NA_SALES <br>
+&emsp; &emsp;Action 49.67 <br>
+&emsp; &emsp;Fighting 6.75 <br>
+&emsp; &emsp;Platform 101.27<br>
+&emsp; &emsp;Puzzle 26.64<br>
+&emsp; &emsp;Racing 26.64<br>
+
 
 
 &emsp; •	Language used: <br>
