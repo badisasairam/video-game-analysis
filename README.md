@@ -33,8 +33,8 @@ This is our big data project. Our course number is 44517 and group number is 02.
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
   For the platform ps4,  find the highest saled game under the publisher "Sony Computer Entertainment". ( Saikumar Nalivela) <br>
   For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
-  For every year, find out the Platform and the genre with NA_Sales ( Karun Bourishetty) <br>
-  For any publisher, find the highest rank game developed in north america? ( lakshmi Seshu Kalvakuri) <br>
+  For every year, find out the Genre with total NA_Sales ( Karun Bourishetty) <br>
+  For any publisher, find the Game highest on Global sales? ( lakshmi Seshu Kalvakuri) <br>`
  
 # Big Data Solutions
   Sairam Badisa <br>
