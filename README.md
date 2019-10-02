@@ -33,8 +33,8 @@ This is our big data project. Our course number is 44517 and group number is 02.
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
   For the platform ps4,  find the highest saled game under the publisher "Sony Computer Entertainment". ( Saikumar Nalivela) <br>
   For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
-  For every year, find out the Platform and the genre with NA_Sales ( Karun Bourishetty) <br>
-  For any publisher, find the highest rank game developed in north america? ( lakshmi Seshu Kalvakuri) <br>
+  For every year, find out the genre with NA_Sales ( Karun Bourishetty) <br>
+  For any paltforms, find the highest rank game developed in world? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
   Sairam Badisa <br>
@@ -47,7 +47,10 @@ This is our big data project. Our course number is 44517 and group number is 02.
   &emsp;&emsp;   o	2009.0, 33.00 <br>
   &emsp;&emsp;   o	1996.0, 31.37 <br>
   &emsp;•	Reducer output : <br>
+  &emsp;&emsp;   o	1982.0, 7.81 <br>
+  &emsp;&emsp;   o	1984.0, 28.31 <br>
   &emsp;&emsp;   o	1985.0, 40.24 <br>
+  &emsp;&emsp;   o	1988.0, 24.74 <br>
   
   &emsp;•	Language used: <br>
   &emsp;&emsp;  The language we are using is python. <br>
@@ -115,17 +118,13 @@ Karun Bourishetty<br>
 &emsp; &emsp;6319	Bridge	2600	1980	Misc	Activision	0.25	0.02	0	0	0.27 <br>
 &emsp; &emsp;6898	Checkers	2600	1980	Misc	Atari	0.22	0.01	0	0	0.24 <br>
 &emsp; •	Reducer output : <br>
-&emsp; &emsp;Rank	Name	Platform	Genre	Publisher <br>
-&emsp; &emsp;Rank	Name	Platform	Year	Genre	Publisher <br>
-&emsp; &emsp;259	Asteroids	2600	1980	Shooter	Atari <br>
-&emsp; &emsp;545	Missile Command	2600	1980	Shooter	Atari <br>
-&emsp; &emsp;1768	Kaboom!	2600	1980	Misc	Activision <br>
-&emsp; &emsp;1971	Defender	2600	1980	Misc	Atari <br>
-&emsp; &emsp;2671	Boxing	2600	1980	Fighting	Activision <br>
-&emsp; &emsp;4027	Ice Hockey	2600	1980	Sports	Activision <br>
-&emsp; &emsp;5368	Freeway	2600	1980	Action	Activision <br>
-&emsp; &emsp;6319	Bridge	2600	1980	Misc	Activision <br>
-&emsp; &emsp;6898	Checkers	2600	1980	Misc	Atari <br>
+&emsp; &emsp;Genre	NA_SALES <br>
+&emsp; &emsp;Action 49.67 <br>
+&emsp; &emsp;Fighting 6.75 <br>
+&emsp; &emsp;Platform 101.27<br>
+&emsp; &emsp;Puzzle 26.64<br>
+&emsp; &emsp;Racing 26.64<br>
+
 
 
 &emsp; •	Language used: <br>
@@ -148,9 +147,9 @@ Mallikarjuna Bodepudi<br>
 &emsp; &emsp;9	New Super Mario Bros. Wii	Wii	2009	Platform	Nintendo	14.59	7.06 <br>
 &emsp; &emsp;10	Duck Hunt	NES	1984	Shooter	Nintendo	26.93	0.63 <br>
 &emsp; •	Reducer output : <br>
-&emsp; &emsp;1	Wii Sports	Wii	2006	Sports	Nintendo<br>
-&emsp; &emsp;2	Super Mario Bros.	NES	1985	Platform	Nintendo <br>
-&emsp; &emsp;3	Mario Kart Wii	Wii	2008	Racing	Nintend0 <br>
+&emsp; &emsp;1984 26.93<br>
+&emsp; &emsp;1985 29.08<br>
+&emsp; &emsp;1988 9.54<br>
 &emsp; •	Language used: <br>
 &emsp;&emsp; The language we are using is python. <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
