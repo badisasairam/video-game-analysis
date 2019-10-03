@@ -31,8 +31,8 @@ This is our big data project. Our course number is 44517 and group number is 02.
   
 # Big Data question
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
-  for . ( Saikumar Nalivela) <br>
-  For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
+  for each year find the game saled in north america? ( Saikumar Nalivela) <br>
+  For every year, find out the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
   For every year, find out the genre with NA_Sales ( Karun Bourishetty) <br>
   For all platforms, find the highest gobal saled game in the world? ( lakshmi Seshu Kalvakuri) <br>
  
