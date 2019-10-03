@@ -31,10 +31,10 @@ This is our big data project. Our course number is 44517 and group number is 02.
   
 # Big Data question
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
-  For the platform ps4,  find the highest saled game under the publisher "Sony Computer Entertainment". ( Saikumar Nalivela) <br>
+  for . ( Saikumar Nalivela) <br>
   For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
   For every year, find out the genre with NA_Sales ( Karun Bourishetty) <br>
-  For any paltforms, find the highest rank game developed in world? ( lakshmi Seshu Kalvakuri) <br>
+  For all platforms, find the highest gobal saled game in the world? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
   Sairam Badisa <br>
@@ -68,12 +68,14 @@ This is our big data project. Our course number is 44517 and group number is 02.
 &emsp; &emsp; 6730	Porky's	1982	20th Century Fox Video Games	0.23<br>
 &emsp; &emsp; 7150	Deadly Duck	1981	20th Century Fox Video Games	0.21<br>
 &emsp; •	Reducer output : <br>
-&emsp;&emsp; Rank	Name	Year	Publisher	NA_Sales<br>
+&emsp;&emsp;Platform	Global_Sales<br>
 &emsp; &emsp;2598	Alien	1981	20th Century Fox Video Games	0.74<br>
 &emsp; •	Language used: <br>
 &emsp;&emsp; The language we are using is python. <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
+![GitHub Logo](/LakshmiSeshu/results.png)
+Format: ![Alt Text](url)
 
 Saikumar Nalivela <br>
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
