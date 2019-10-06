@@ -31,7 +31,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   
 # Big Data question
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
-  for each year find the game saled in north america? ( Saikumar Nalivela) <br>
+  for each year find the games saled in north america? ( Saikumar Nalivela) <br>
   For every year, find out the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
   For every year, find out the genre with NA_Sales ( Karun Bourishetty) <br>
   For all platforms, find the highest gobal saled game in the world? ( lakshmi Seshu Kalvakuri) <br>
@@ -83,28 +83,24 @@ Saikumar Nalivela <br>
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
 &emsp; &emsp;237	The Last of Us	PS4	2014	Action	Sony Computer Entertainment <br>
 &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
-&emsp; &emsp;Rank	Name	Platform	Year	Genre	Publisher <br>
-&emsp; &emsp;237	The Last of Us	PS4	2014	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;244	Uncharted: The Nathan Drake Collection	PS4	2015	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;272	Uncharted 4: A Thief's End	PS4	2016	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;539	inFAMOUS: Second Son	PS4	2014	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;594	Killzone: Shadow Fall	PS4	2013	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;662	Bloodborne	PS4	2015	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;850	DriveClub	PS4	2014	Racing	Sony Computer Entertainment <br>
-&emsp; &emsp;931	LittleBigPlanet 3	PS4	2014	Platform	Sony Computer Entertainment <br>
+  &emsp;&emsp;   o	1980	10.59<br>
+  &emsp;&emsp;   o	1982	26.92 <br>
+  &emsp;&emsp;   o	1983	7.76 <br>
+  &emsp;&emsp;   o	1981	33.4<br>
+  &emsp;&emsp;   o	1985	33.73 <br>
 &emsp; •	Reducer output : <br>
-&emsp; &emsp;Rank	Name	Platform	Genre	Publisher <br>
-&emsp; &emsp;237	The Last of Us	PS4	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;244	Uncharted: The Nathan Drake Collection	PS4	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;272	Uncharted 4: A Thief's End	PS4	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;539	inFAMOUS: Second Son	PS4	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;594	Killzone: Shadow Fall	PS4	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;662	Bloodborne	PS4	Action	Sony Computer Entertainment <br>
+  &emsp;&emsp;   o	1980	10.59<br>
+  &emsp;&emsp;   o	1981	33.4<br> 
+  &emsp;&emsp;   o	1982	26.92 <br>
+  &emsp;&emsp;   o	1983	7.76 <br>
+  &emsp;&emsp;   o	1985	33.73 <br>
 
 &emsp; •	Language used: <br>
 &emsp;&emsp; The language we are using is python. <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
+
+<img src="SaiNalivela/bar garph.png" alt="Italian Trulli">
 
 
 Karun Bourishetty<br>
