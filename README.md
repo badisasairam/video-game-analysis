@@ -61,22 +61,19 @@ This is our big data project. Our course number is 44517 and group number is 02.
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
 &emsp; &emsp; 2598	Alien	2600	1981	Action	20th Century Fox Video Games	0.74	0.04	0	0.01	0.79<br>
 &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
-&emsp; &emsp;  Rank	Name	Year	Publisher	NA_Sales<br>
-&emsp; &emsp; 2598	Alien	1981	20th Century Fox Video Games	0.74<br>
-&emsp; &emsp; 5391	Fantastic Voyage	1981	20th Century Fox Video Games	0.32<br>
-&emsp; &emsp; 5397	Bank Heist	1982	20th Century Fox Video Games	0.32<br>
-&emsp; &emsp; 6730	Porky's	1982	20th Century Fox Video Games	0.23<br>
-&emsp; &emsp; 7150	Deadly Duck	1981	20th Century Fox Video Games	0.21<br>
+&emsp;&emsp;   o	3DO	0.1 <br>
+  &emsp;&emsp;   o	3DS 	246.52<br>
+  &emsp;&emsp;   o	GC 	197.31<br>
+  &emsp;&emsp;   o	PS 	729.65<br>
+  &emsp;&emsp;   o	DS 	819.59<br>
 &emsp; •	Reducer output : <br>
-&emsp;&emsp;Platform	Global_Sales<br>
-&emsp; &emsp;2598	Alien	1981	20th Century Fox Video Games	0.74<br>
-&emsp; •	Language used: <br>
-&emsp;&emsp; The language we are using is python. <br>
-&emsp; •	What kind of chart will you use to display the results? <br>
-&emsp;&emsp; I will use bar chart to display my results. <br>
-<img src="/lakshmiSeshu/results.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+&emsp;&emsp;   o	3DO	0.1 <br>
+  &emsp;&emsp;   o	3DS 	246.52<br>
+  &emsp;&emsp;   o	DC 	15.58<br>
+  &emsp;&emsp;   o	GC 	197.31<br>
+  &emsp;&emsp;   o	PS 	729.65<br>
+![Logo](bargarph.PNG)
+
 
 
 Saikumar Nalivela <br>
@@ -100,7 +97,7 @@ Saikumar Nalivela <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
 
-![Logo](bargarph.PNG)
+![Logo](Capture.PNG)
 
 
 
