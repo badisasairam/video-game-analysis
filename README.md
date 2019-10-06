@@ -31,10 +31,10 @@ This is our big data project. Our course number is 44517 and group number is 02.
   
 # Big Data question
   For every year, we can find out the no.of Global Sales for every year in a sorted order. (Sairam Badisa) <br>
-  For the platform ps4,  find the highest saled game under the publisher "Sony Computer Entertainment". ( Saikumar Nalivela) <br>
-  For every year, find out the Genre and the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
+  for each year find the games saled in north america? ( Saikumar Nalivela) <br>
+  For every year, find out the publisher who secured more EU_Sales ( Mallikarjuna Bodepudi) <br>
   For every year, find out the genre with NA_Sales ( Karun Bourishetty) <br>
-  For any paltforms, find the highest rank game developed in world? ( lakshmi Seshu Kalvakuri) <br>
+  For all platforms, find the highest gobal saled game in the world? ( lakshmi Seshu Kalvakuri) <br>
  
 # Big Data Solutions
   Sairam Badisa <br>
@@ -61,46 +61,45 @@ This is our big data project. Our course number is 44517 and group number is 02.
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
 &emsp; &emsp; 2598	Alien	2600	1981	Action	20th Century Fox Video Games	0.74	0.04	0	0.01	0.79<br>
 &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
-&emsp; &emsp;  Rank	Name	Year	Publisher	NA_Sales<br>
-&emsp; &emsp; 2598	Alien	1981	20th Century Fox Video Games	0.74<br>
-&emsp; &emsp; 5391	Fantastic Voyage	1981	20th Century Fox Video Games	0.32<br>
-&emsp; &emsp; 5397	Bank Heist	1982	20th Century Fox Video Games	0.32<br>
-&emsp; &emsp; 6730	Porky's	1982	20th Century Fox Video Games	0.23<br>
-&emsp; &emsp; 7150	Deadly Duck	1981	20th Century Fox Video Games	0.21<br>
+&emsp;&emsp;   o	3DO	0.1 <br>
+  &emsp;&emsp;   o	3DS 	246.52<br>
+  &emsp;&emsp;   o	GC 	197.31<br>
+  &emsp;&emsp;   o	PS 	729.65<br>
+  &emsp;&emsp;   o	DS 	819.59<br>
 &emsp; •	Reducer output : <br>
-&emsp;&emsp; Rank	Name	Year	Publisher	NA_Sales<br>
-&emsp; &emsp;2598	Alien	1981	20th Century Fox Video Games	0.74<br>
-&emsp; •	Language used: <br>
-&emsp;&emsp; The language we are using is python. <br>
-&emsp; •	What kind of chart will you use to display the results? <br>
-&emsp;&emsp; I will use bar chart to display my results. <br>
+&emsp;&emsp;   o	3DO	0.1 <br>
+  &emsp;&emsp;   o	3DS 	246.52<br>
+  &emsp;&emsp;   o	DC 	15.58<br>
+  &emsp;&emsp;   o	GC 	197.31<br>
+  &emsp;&emsp;   o	PS 	729.65<br>
+![Logo](Capture.PNG)
+
+
 
 Saikumar Nalivela <br>
 &emsp; •	Mapper Input : One line of data that mapper will read is: <br>
 &emsp; &emsp;237	The Last of Us	PS4	2014	Action	Sony Computer Entertainment <br>
 &emsp; •	Mapper output/Reducer input : example of an intermediate key-value pair by mapper: <br>
-&emsp; &emsp;Rank	Name	Platform	Year	Genre	Publisher <br>
-&emsp; &emsp;237	The Last of Us	PS4	2014	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;244	Uncharted: The Nathan Drake Collection	PS4	2015	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;272	Uncharted 4: A Thief's End	PS4	2016	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;539	inFAMOUS: Second Son	PS4	2014	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;594	Killzone: Shadow Fall	PS4	2013	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;662	Bloodborne	PS4	2015	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;850	DriveClub	PS4	2014	Racing	Sony Computer Entertainment <br>
-&emsp; &emsp;931	LittleBigPlanet 3	PS4	2014	Platform	Sony Computer Entertainment <br>
+  &emsp;&emsp;   o	1980	10.59<br>
+  &emsp;&emsp;   o	1982	26.92 <br>
+  &emsp;&emsp;   o	1983	7.76 <br>
+  &emsp;&emsp;   o	1981	33.4<br>
+  &emsp;&emsp;   o	1985	33.73 <br>
 &emsp; •	Reducer output : <br>
-&emsp; &emsp;Rank	Name	Platform	Genre	Publisher <br>
-&emsp; &emsp;237	The Last of Us	PS4	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;244	Uncharted: The Nathan Drake Collection	PS4	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;272	Uncharted 4: A Thief's End	PS4	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;539	inFAMOUS: Second Son	PS4	Action	Sony Computer Entertainment <br>
-&emsp; &emsp;594	Killzone: Shadow Fall	PS4	Shooter	Sony Computer Entertainment <br>
-&emsp; &emsp;662	Bloodborne	PS4	Action	Sony Computer Entertainment <br>
+  &emsp;&emsp;   o	1980	10.59<br>
+  &emsp;&emsp;   o	1981	33.4<br> 
+  &emsp;&emsp;   o	1982	26.92 <br>
+  &emsp;&emsp;   o	1983	7.76 <br>
+  &emsp;&emsp;   o	1985	33.73 <br>
 
 &emsp; •	Language used: <br>
 &emsp;&emsp; The language we are using is python. <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
+
+
+![Logo](bargarph.PNG)
+
 
 
 Karun Bourishetty<br>
