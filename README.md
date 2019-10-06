@@ -72,7 +72,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   &emsp;&emsp;   o	DC 	15.58<br>
   &emsp;&emsp;   o	GC 	197.31<br>
   &emsp;&emsp;   o	PS 	729.65<br>
-![Logo](bargarph.PNG)
+![Logo](Capture.PNG)
 
 
 
@@ -97,7 +97,8 @@ Saikumar Nalivela <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
 
-![Logo](Capture.PNG)
+
+![Logo](bargarph.PNG)
 
 
 
