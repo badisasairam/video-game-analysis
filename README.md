@@ -100,7 +100,7 @@ Saikumar Nalivela <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
 
-<img src="SaiNalivela/bar garph.png" alt="Italian Trulli">
+<img src="/SaiNalivela/bar garph.png" alt="Italian Trulli">
 
 
 Karun Bourishetty<br>
