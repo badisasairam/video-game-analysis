@@ -100,7 +100,8 @@ Saikumar Nalivela <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
 
-<img src="/SaiNalivela/bar garph.png" alt="Italian Trulli">
+![GitHub Logo](/SaiNalivela/bargarph.png)
+Format: ![Alt Text](url)
 
 
 Karun Bourishetty<br>
