@@ -56,7 +56,7 @@ This is our big data project. Our course number is 44517 and group number is 02.
   &emsp;&emsp;  The language we are using is python. <br>
   &emsp;•	What kind of chart will you use to display the results? <br>
   &emsp;&emsp;  I will use bar chart to display my results. <br>
-  ![Logo](C:\Users\s534148\Documents\44517\projects\video-game-analysis\GlobalSales\pic.PNG)
+  ![](https://github.com/badisasairam/video-game-analysis/blob/master/GlobalSales/pic.PNG)
   
     
    Lakshmi Seshu Kalvakuri <br>
