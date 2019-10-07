@@ -155,6 +155,7 @@ Mallikarjuna Bodepudi<br>
 &emsp;&emsp; The language we are using is python. <br>
 &emsp; •	What kind of chart will you use to display the results? <br>
 &emsp;&emsp; I will use bar chart to display my results. <br>
+![](https://github.com/badisasairam/video-game-analysis/blob/master/mallikarjun/Capture.PNG)
 
 
         
